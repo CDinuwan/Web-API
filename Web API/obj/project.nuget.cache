@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "UWEEuYCPQTnkdX1D/PFCg6IRe1MQ5EdpRQ2FlQ9aTygE5ee7YxWblXS2/IA0+8qJj2db5lUfXSvEc4SlSvIN6w==",
+  "dgSpecHash": "NhNEH5SAaGjgCyKwLhgwojvbN9Ur/YyTqhjkGU6iUZG+p6zmP0rgz7wtLBDU491hnOShOwv7bsB0e4Hx8Fp4pg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chanuka Dinuwan\\Desktop\\Web API\\Web API\\Web API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.4\\microsoft.aspnetcore.jsonpatch.5.0.4.nupkg.sha512",
+    "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.4\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.4.nupkg.sha512",
+    "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Chanuka Dinuwan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
