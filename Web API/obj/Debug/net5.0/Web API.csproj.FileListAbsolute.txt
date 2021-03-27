@@ -1,0 +1,29 @@
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.exe
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.deps.json
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.json
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.runtimeconfig.dev.json
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\ref\Web API.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Web API.pdb
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfoInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.AssemblyInfo.cs
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\scopedcss\bundle\Web API.styles.css
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.csproj.CopyComplete
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\ref\Web API.dll
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.pdb
+C:\Users\Chanuka Dinuwan\Desktop\Web API\Web API\obj\Debug\net5.0\Web API.genruntimeconfig.cache
